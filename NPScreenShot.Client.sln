@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPScreenShot.Client", "NPScreenShot.Client\NPScreenShot.Client.csproj", "{1B8504A7-AB9C-4961-BA3F-F4A5C2A4C4EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPScreenShot.Server", "WpfApp1\NPScreenShot.Server.csproj", "{DF762D8D-5571-45C4-8453-95AB4B1A7F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B8504A7-AB9C-4961-BA3F-F4A5C2A4C4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8504A7-AB9C-4961-BA3F-F4A5C2A4C4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8504A7-AB9C-4961-BA3F-F4A5C2A4C4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8504A7-AB9C-4961-BA3F-F4A5C2A4C4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF762D8D-5571-45C4-8453-95AB4B1A7F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF762D8D-5571-45C4-8453-95AB4B1A7F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF762D8D-5571-45C4-8453-95AB4B1A7F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF762D8D-5571-45C4-8453-95AB4B1A7F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19BB01A2-AB96-493F-BFDA-E7BDEC210D95}
+	EndGlobalSection
+EndGlobal
